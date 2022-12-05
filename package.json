@@ -1,0 +1,22 @@
+{
+  "name": "gadget_plus_62",
+  "version": "1.0.0",
+  "description": "it's just a gadget",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "erfanbagus@hotmail.com",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erfan-bagus/gadget_plus_62.git"
+  },
+  "keywords": [
+    "js"
+  ],
+  "bugs": {
+    "url": "https://github.com/erfan-bagus/gadget_plus_62/issues"
+  },
+  "homepage": "https://github.com/erfan-bagus/gadget_plus_62#readme"
+} 
